@@ -102,4 +102,4 @@ If you encounter any issues during the setup or running of the application, plea
 If you would like to contribute to this project, please fork the repository and submit a pull request. We welcome all contributions!
 
 ## Contact
-For questions or support, please contact me Igor Medeiros [igor.de.medeiros@accenture.com](mailto:igor.de.medeiros@accenture.com).
+For questions or support, please contact me Igor Medeiros [igor.medeiros@gmail.com](mailto:igor.medeiros@gmail.com).
