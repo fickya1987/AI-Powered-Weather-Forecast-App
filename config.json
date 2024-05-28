@@ -1,0 +1,27 @@
+{
+  "openweathermap": {
+    "api_key": "0f2a16094a277821fc777dd18057e23d",
+    "base_url": "http://api.openweathermap.org/data/2.5/weather"
+  },
+  "groq": {
+    "api_key": "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",
+    "base_url": "https://api.groq.com/openai/v1/chat/completions"
+  },
+  "internacionalization": {
+    "pt-br": {
+      "title": "Previsão do tempo com AI",
+      "city_field": "Nome da cidade",
+      "user_question": "Faça uma pergunta sobre o tempo",
+      "checkbox_notifications": "Habilitar notificações",
+      "button_forest": "Obter previsão do tempo",
+      "response_ai_title": "Resposta AI",
+      "title_graphic": "Previsão do tempo",
+      "y_graphic": "Humidade (%)",
+      "x_graphic": "Temperatura (°C)",
+      "spinner_text": "Consultando resposta IA e dados metereológicos...",
+      "warning_message": "Por favor informe a cidade e a questão.",
+      "alert_text": "🚨 Alerta para temperatura mais baixas"
+
+    }
+  }
+}
