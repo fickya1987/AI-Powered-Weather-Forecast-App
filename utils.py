@@ -2,7 +2,7 @@ import requests
 import json
 import matplotlib.pyplot as plt 
 
-from internacionalization import (
+from internationalization import (
     title_graphic,
     y_graphic,
     x_graphic,
