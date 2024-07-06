@@ -7,7 +7,7 @@ from utils import (
     process_weather_data
 )
 
-from internacionalization import (
+from internationalization import (
     title, 
     city_field, 
     user_question, 
